@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7aba7af-d974-492a-906d-bf5683e49216" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dailyfresh.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dailyfresh/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dailyfresh/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dailyfresh/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dailyfresh/wsgi.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manage.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="dailyfresh.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -414,6 +396,13 @@
       <option name="number" value="Default" />
       <updated>1506696353368</updated>
     </task>
+    <task id="LOCAL-00001" summary="新增天天生鲜项目">
+      <created>1506697812592</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1506697812592</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
