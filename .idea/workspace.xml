@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7aba7af-d974-492a-906d-bf5683e49216" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/admin.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/apps.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/migrations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="b7aba7af-d974-492a-906d-bf5683e49216" name="Default" comment="" />
     <ignored path="dailyfresh.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -412,7 +403,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="81" y="-9" width="1848" height="1098" extended-state="6" />
+    <frame x="81" y="-9" width="1848" height="1098" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2632171" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
